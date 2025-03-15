@@ -18,12 +18,17 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
-        {children}
-      </body>
-    </html>
+      <html lang="en">
+          <head>
+              <meta property="og:title" content="The Desperate Trader" />
+              <meta property="og:description" content="Join The Desperate Trader for real-time stock alerts, watchlists, and expert trading insights." />
+              <meta property="og:image" content="/og-image.jpeg" />
+              <meta property="og:url" content="https://main.d1bn172j23wjtb.amplifyapp.com/" />
+              <meta property="og:type" content="website" />
+          </head>
+          <body>{children}</body>
+      </html>
   );
 }
+
+
