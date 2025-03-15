@@ -25,6 +25,7 @@ export default function RootLayout({ children }) {
               <meta property="og:image" content="https://main.d21o4m85ge9zx9.amplifyapp.com/og-image.jpeg" />
               <meta property="og:url" content="https://main.d21o4m85ge9zx9.amplifyapp.com/" />
               <meta property="og:type" content="website" />
+              <meta property="fb:app_id" content="247431858966477" />
           </head>
           <body>{children}</body>
       </html>
