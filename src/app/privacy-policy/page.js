@@ -4,7 +4,7 @@ export default function PrivacyPolicy() {
             <h1>Privacy Policy</h1>
             <p>Last updated: March 2025</p>
             <p>
-                TheDesperateTrader ("we", "our", or "us") operates the website TheDesperateTrader and is committed to protecting your privacy.
+                TheDesperateTrader (&ldquo;we&rdquo;, &ldquo;our&rdquo;, or &ldquo;us&rdquo;) operates the website TheDesperateTrader and is committed to protecting your privacy.
             </p>
             <h2>1. Information We Collect</h2>
             <p>We collect personal information such as your name, email address, and data you provide when signing up.</p>
