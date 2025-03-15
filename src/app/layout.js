@@ -22,13 +22,14 @@ export default function RootLayout({ children }) {
           <head>
               <meta property="og:title" content="The Desperate Trader" />
               <meta property="og:description" content="Join The Desperate Trader for real-time stock alerts, watchlists, and expert trading insights." />
-              <meta property="og:image" content="https://main.d1bn172j23wjtb.amplifyapp.com/og-image.jpeg" />
-              <meta property="og:url" content="https://main.d1bn172j23wjtb.amplifyapp.com/" />
+              <meta property="og:image" content="https://main.d21o4m85ge9zx9.amplifyapp.com/og-image.jpeg" />
+              <meta property="og:url" content="https://main.d21o4m85ge9zx9.amplifyapp.com/" />
               <meta property="og:type" content="website" />
           </head>
           <body>{children}</body>
       </html>
   );
 }
+
 
 
